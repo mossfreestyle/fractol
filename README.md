@@ -2,8 +2,6 @@
 
 Un générateur de fractales interactif développé en C avec la bibliothèque MiniLibX. Ce projet fait partie du cursus de l'École 42 et permet d'explorer la beauté mathématique des ensembles de Mandelbrot et de Julia.
 
-![Fract'ol Preview](https://via.placeholder.com/800x400/0D1117/58A6FF?text=Fract%27ol+Preview)
-
 ## 📋 Table des matières
 
 - [À propos](#à-propos)
