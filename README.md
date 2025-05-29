@@ -56,7 +56,7 @@ brew install xquartz
 ### Compilation
 
 ```bash
-git clone https://github.com/votre-username/fractol.git
+git clone https://github.com/mossfreestyle/fractol.git
 cd fractol
 make
 ```
